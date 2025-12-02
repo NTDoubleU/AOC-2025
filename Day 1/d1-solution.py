@@ -1,4 +1,4 @@
-filename = "C:\\Users\\nathan wright\\Desktop\\FOLDER OF FOLDERS\\Personal Code Archive\\Advent of code 2025\\Day 1\\data.txt"
+filename = "**************"
 
 def solve_part1(filename):
     pos = 50   # starting position
@@ -52,3 +52,4 @@ def solve_part2(filename):
 
 
 print("Part 2 Password:", solve_part2(filename))
+
